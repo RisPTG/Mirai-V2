@@ -1,2 +1,119 @@
-Vào fb lấy app nha
-Cao Chung Đạt
+[
+	{
+		"key": "dbln",
+		"value": "%7B%22100094324782308%22%3A%22KsubHFXg%22%7D",
+		"domain": "facebook.com",
+		"path": "/login/device-based/",
+		"hostOnly": false,
+		"creation": "2025-04-27T08:09:13.502Z",
+		"lastAccessed": "2025-04-27T08:09:13.507Z"
+	},
+	{
+		"key": "sb",
+		"value": "KJj4Z2O25kwP_gpqcZcpULj-",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-04-27T08:09:13.507Z",
+		"lastAccessed": "2025-04-27T08:09:13.507Z"
+	},
+	{
+		"key": "ps_l",
+		"value": "1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-04-27T08:09:13.507Z",
+		"lastAccessed": "2025-04-27T08:09:13.507Z"
+	},
+	{
+		"key": "ps_n",
+		"value": "1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-04-27T08:09:13.507Z",
+		"lastAccessed": "2025-04-27T08:09:13.507Z"
+	},
+	{
+		"key": "vpd",
+		"value": "v1%3B925x400x2",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-04-27T08:09:13.507Z",
+		"lastAccessed": "2025-04-27T08:09:13.507Z"
+	},
+	{
+		"key": "wl_cbv",
+		"value": "v2%3Bclient_version%3A2785%3Btimestamp%3A1744438515",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-04-27T08:09:13.507Z",
+		"lastAccessed": "2025-04-27T08:09:13.507Z"
+	},
+	{
+		"key": "datr",
+		"value": "c0r_ZzwQ5jf7lWJXmuN2IR6V",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-04-27T08:09:13.507Z",
+		"lastAccessed": "2025-04-27T08:09:13.507Z"
+	},
+	{
+		"key": "c_user",
+		"value": "61574598222042",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-04-27T08:09:13.507Z",
+		"lastAccessed": "2025-04-27T08:09:13.507Z"
+	},
+	{
+		"key": "b_user",
+		"value": "61575240857077",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-04-27T08:09:13.507Z",
+		"lastAccessed": "2025-04-27T08:09:13.507Z"
+	},
+	{
+		"key": "wd",
+		"value": "1034x543",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-04-27T08:09:13.507Z",
+		"lastAccessed": "2025-04-27T08:09:13.507Z"
+	},
+	{
+		"key": "presence",
+		"value": "C%7B%22lm3%22%3A%22g.9182118358490187%22%2C%22t3%22%3A%5B%7B%22o%22%3A0%2C%22i%22%3A%22u.100083411540341%22%7D%5D%2C%22utc3%22%3A1745740880848%2C%22v%22%3A1%7D",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-04-27T08:09:13.507Z",
+		"lastAccessed": "2025-04-27T08:09:13.507Z"
+	},
+	{
+		"key": "fr",
+		"value": "1nfWh9tbOHTqGckPx.AWfXOZPHiZmbvPuqGtpjqIgxo05mBwrmRJ8QPtN3iHjtx1148lI.BoDeX_..AAA.0.0.BoDeX_.AWdAscf374TJ9YB4iD5TSnetrPE",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-04-27T08:09:13.507Z",
+		"lastAccessed": "2025-04-27T08:09:13.507Z"
+	},
+	{
+		"key": "xs",
+		"value": "2%3AU-N0PXzmeoW4MA%3A2%3A1744886842%3A-1%3A6291%3Ab3UUlJJYBDiI3A%3AAcVeZkeb2rvwq9PVOGfukIdJikN-RQ6U2ol3WqxRGdY",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-04-27T08:09:13.507Z",
+		"lastAccessed": "2025-04-27T08:09:13.507Z"
+	}
+]
